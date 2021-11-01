@@ -1,6 +1,6 @@
 # json
 [![CN](https://img.shields.io/badge/Language-English-blue)](https://github.com/bitjerry/json/README.md)
-![APM](https://img.shields.io/apm/l/json)
+![APM](https://img.shields.io/badge/license-MIT-2345.svg)
 
 >1. ***此工具提供为json的序列化与反序列化提供支持***
 >

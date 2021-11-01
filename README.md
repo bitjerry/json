@@ -1,7 +1,7 @@
 # json
 
 [![CN](https://img.shields.io/badge/Language-Chinese-red)](https://github.com/bitjerry/json/README.zh-CN.md)
-![APM](https://img.shields.io/apm/l/bitjerry)
+![APM](https://img.shields.io/badge/license-MIT-2345.svg)
 
 >1. ***this tool supports the serialization and deserialization of json***
 >
