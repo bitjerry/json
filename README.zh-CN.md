@@ -1,6 +1,6 @@
 # json
 [![CN](https://img.shields.io/badge/Language-English-blue)](https://github.com/bitjerry/json/blob/main/README.md)
-![APM](https://img.shields.io/badge/license-MIT-2345.svg)
+[![APM](https://img.shields.io/badge/license-MIT-2345.svg)](https://github.com/bitjerry/json)
 
 >1. ***此工具提供为json的序列化与反序列化提供支持***
 >
@@ -47,6 +47,9 @@ System.out.println(Json.getJson(parseJson(m)).toString());
 ```
 **结果**
 >{":g[g{}g": [null, {"eee": null, "1": [[1], [2], ["3,ee"], [{"1": 2}, ["122}3[32"]], [6], [[[["]"]]]]], "2": 3}, {"1": 2, "2": 3}], "wee}w": "23,223", "wye": {"qwqw": "weq", "qwwq": {"wq": "211e1", "211": "wqqzwqq", "ewei": "iweetcx"}}}
+
+## License
+MIT © [bitjerry](https://github.com/bitjerry/json/blob/main/LICENSE)
 ---
 *2021/11/1 17:49:51*
 *Mr.lin*
